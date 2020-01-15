@@ -1,1 +1,3 @@
-public class Engine{}
+public class Engine{
+ int i=10;
+}
